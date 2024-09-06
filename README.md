@@ -1,2 +1,2 @@
 # demo
-This is for demo of git anf github.
+This is for demo of git and github.
